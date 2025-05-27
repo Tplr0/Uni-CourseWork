@@ -1,0 +1,35 @@
+C:\Users\yusuf\OneDrive\Рабочий стол\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\yusuf\OneDrive\Рабочий стол\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\yusuf\OneDrive\Рабочий стол\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\yusuf\OneDrive\Рабочий стол\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Рабочий стол\assignment\assignment\obj\Debug\assignment.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Рабочий стол\assignment\assignment\obj\Debug\assignment.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Рабочий стол\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Рабочий стол\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\yusuf\OneDrive\Рабочий стол\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\obj\Debug\assignment.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\obj\Debug\assignment.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\yusuf\OneDrive\Рабочий стол\oop\assignment\assignment\obj\Debug\assignment.Login.resources
+C:\Users\gujun\Desktop\Assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\gujun\Desktop\Assignment\assignment\bin\Debug\assignment.exe
+C:\Users\gujun\Desktop\Assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.csproj.AssemblyReference.cache
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.Admin.resources
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.JobStatus.resources
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.Login.resources
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.Properties.Resources.resources
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.ReportGeneration.resources
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.RequestsFromCustomer.resources
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.UserManagement.resources
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.WorkerStoryboard.resources
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.csproj.GenerateResource.cache
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.csproj.CoreCompileInputs.cache
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.exe
+C:\Users\gujun\Desktop\Assignment\assignment\obj\Debug\assignment.pdb
