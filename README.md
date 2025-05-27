@@ -53,12 +53,12 @@ python main.py
 
 ## **Troubleshooting**
 
-* Ensure all `.txt` and '.txt' files mentioned in a project are in the correct directory
+* Ensure all `.txt`, `.png` and any relevant files mentioned in a project are in the correct directory
 * If a module is missing, install it using `pip install <module_name>`
-* Use Python 3 interpreter to avoid version compatibility issues
+* If Python is the main language use Python 3 interpreter to avoid version compatibility issues
 
 ---
 
 ## **Acknowledgments**
 
-These coursework projects were developed during academic semesters and reflect foundational programming concepts learned. Special thanks to course instructors and lab guides for their direction.
+These coursework projects were developed during academic semesters and reflect foundational programming concepts learned. They are provided for reference only and are not necessarily optimized or production-ready. Plagiarism is highly discouraged—please use these examples responsibly for learning purposes only. Special thanks to course instructors and lab guides for their direction.
