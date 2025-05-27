@@ -21,7 +21,7 @@ To run the projects in this repository, you may need:
 * Java
 * C++
 * C#
-* Or any external dependencies that is stated in specific project folders
+* Or any external dependencies that is stated in specific project folder's README.md
 
 ---
 
