@@ -1,0 +1,1 @@
+print("Hello my name is Jun Wei and my hobby is playing video games.")
