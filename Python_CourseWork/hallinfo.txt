@@ -1,0 +1,3 @@
+Audi001;Auditorium;A grand venue for conferences and concerts;1000;2023-12-30;08:00:00;18:00:00;300
+Banquet001;Banquet Hall;A versatile and charming space for weddings and corporate events;300;2023-12-30;08:00:00;18:00:00;100
+Meeting001;Meeting Room;An intimate and productive setting for business meetings and small seminars;30;2024-01-02;08:00:00;18:00:00;50
